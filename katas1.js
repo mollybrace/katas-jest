@@ -1,4 +1,0 @@
-
-
-const katas = require("./katas")
-
