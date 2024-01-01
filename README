@@ -1,0 +1,10 @@
+This file is to practise Kata problems daily using TDD. 
+
+Each day I will commit this file to my Github adding one extra kata.
+
+
+Run test suite
+npm run test additionCalculator.test.js
+
+Jest testing is being used.
+
